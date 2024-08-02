@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+
+}
+.image{
+    clip-path: circle(35% at 50% 50%);
+}
+.box{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
+h3{
+    color: white;
+    display: none;
+}
+.btn3{
+    display: none;
+}
